@@ -1,0 +1,23 @@
+﻿body {
+    width:791px;
+    font-size:19px;
+    color:#111;
+    font-family:Arial, sans-serif;
+}
+
+header {
+    border-color:#0094ff;
+    border:solid;
+    border-width:2px;
+    border-radius:5px;
+}
+
+footer, header, nav, section{
+    display:block;
+}
+
+#navbar{
+    margin:0!important;
+}
+
+#navbar
